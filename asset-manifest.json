@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Recipe-APP/static/css/main.cb4a0971.css",
+    "main.js": "/React-Recipe-APP/static/js/main.1e00d413.js",
+    "static/media/food2.jpg": "/React-Recipe-APP/static/media/food2.a7ecb73f16ce6657b852.jpg",
+    "static/media/WhatsApp_icon.png": "/React-Recipe-APP/static/media/WhatsApp_icon.31d4b1d27126bcc1f665.png",
+    "static/media/lk.png": "/React-Recipe-APP/static/media/lk.10dab9aab0f96bc27f26.png",
+    "static/media/food1.jpg": "/React-Recipe-APP/static/media/food1.5bf9ca8e6feef6e48657.jpg",
+    "index.html": "/React-Recipe-APP/index.html",
+    "main.cb4a0971.css.map": "/React-Recipe-APP/static/css/main.cb4a0971.css.map",
+    "main.1e00d413.js.map": "/React-Recipe-APP/static/js/main.1e00d413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb4a0971.css",
+    "static/js/main.1e00d413.js"
+  ]
+}
