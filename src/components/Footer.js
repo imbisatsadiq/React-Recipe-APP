@@ -12,7 +12,7 @@ function Footer() {
       <div className="footer-background">
         <h3>Follow Us on Social Media</h3>
         <div className="social-icons">
-          <a href="https://www.instagram.com/coding_surfer?igsh=NTdzNnV5NG04NWJy" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/?igsh=NTdzNnV5NG04NWJy" target="_blank" rel="noopener noreferrer">
             <img src={instalogo} alt="Instagram" />
           </a>
           <a href="https://whatsapp.com/dl/" target="_blank" rel="noopener noreferrer">
